@@ -23,11 +23,11 @@
         <!--banner-->
         <div class="container-fluid">
             
-            <div class="jumbotron banner-background">
+            <div class="jumbotron banner-background primary-background">
                 <div class="container">
-                    <h3 class="display-3">Welcome, Friend</h3>
-                    <h3>Tech Blog</h3>
-                    <p>Welcome to the website hope you extremely doing good</p>
+                    <h3 class="display-3 text-white">Welcome, Friend</h3>
+                    <h3 class="text-white">Tech Blog</h3>
+                    <p class="text-white">Welcome to the website hope you extremely doing good</p>
                     <button class="btn btn-outline-light btn-lg">It's free</button>
                     <a href="login_page.jsp" class="btn btn-outline-light btn-lg">Login</a>
                 </div>
